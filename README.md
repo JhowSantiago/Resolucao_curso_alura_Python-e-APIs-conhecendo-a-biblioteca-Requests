@@ -1,0 +1,1 @@
+# Resolucao_curso_alura_Python-e-APIs-conhecendo-a-biblioteca-Requests
